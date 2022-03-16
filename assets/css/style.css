@@ -40,7 +40,6 @@ body {
 .heading_text h1 {
     color: #fff;
     padding: 35px 0px;
-
 }
 
 .banar {
@@ -52,6 +51,7 @@ body {
 .main_result_area {
 	background-color: #BEBFB6;
 	padding: 33px 0px;
+    padding-top: 0px;
 }
 
 .result_date {}
@@ -60,6 +60,7 @@ body {
     font-size: 36px;
     color: #fff;
     padding: 25px 0px;
+    padding-top: 0px;
 }
 
 .result_btn {}
